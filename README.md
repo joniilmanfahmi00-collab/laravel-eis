@@ -34,7 +34,7 @@ The primary goal of Laravel EIS is to provide a centralized platform for trackin
 
 1. **Clone the Repository**:
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/joniilmanfahmi00-collab/laravel-eis
    cd eis
    ```
 
